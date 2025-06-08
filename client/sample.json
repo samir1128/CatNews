@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+      {
+        "source": {
+          "id": "news24",
+          "name": "News24"
+        },
+        "author": "Compiled by Craig Taylor",
+        "title": "Mapimpi cops three-game ban for Cardiff scuffle",
+        "description": "Winger Makazole Mapimpi has received a three-game suspension for his part in a scuffle during the Sharks' clash with Cardiff in a United Rugby Championship (URC) fixture on 25 January.",
+        "url": "https://www.news24.com/sport/rugby/unitedrugbychampionship/mapimpi-cops-three-game-ban-for-cardiff-scuffle-20250204",
+        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12637/382cebfb4ad94276a197974927accd67.jpg",
+        "publishedAt": "2025-02-04T19:25:18",
+        "content": "\u003Cul\u003E\u003Cli\u003ESharks\r\n winger Makazole Mapimpi has received a three-game suspension, as announced\r\n by a United Rugby Championship (URC) disciplinary committee.\u003C/li\u003E\u003Cli\u003EThe\r\n suspension comes as a result o… [+2263 chars]"
+      },
+      {
+        "source": {
+          "id": "le-monde",
+          "name": "Le Monde"
+        },
+        "author": "Juliette Prigent",
+        "title": "Vidéo. Dépressions, suicides... Dans le rugby, « il y a un mal qui est profond »",
+        "description": "Vidéo - Raphaël Poulain, ancien rugbyman professionnel, témoigne du manque de prise en charge psychologique dans un sport encore très soumis à une culture viriliste.",
+        "url": "https://www.lemonde.fr/sport/video/2025/01/31/depressions-suicides-dans-le-rugby-il-y-a-un-mal-qui-est-profond_6525519_3242.html",
+        "urlToImage": "https://img.lemde.fr/2025/01/30/0/300/3240/2160/1440/960/60/0/6103195_sirius-fs-upload-1-yulsk23xeny4-1738251958020-c0010-mp4-03-41-08-21-still001.jpg",
+        "publishedAt": "2025-01-31T15:00:18Z",
+        "content": "« On soigne bien des claquages dans le rugby, pourquoi on ne soigne pas une dépression ? », interroge Raphaël Poulain, ancien rugbyman du Stade français au début des années 2000. Après avoir été prop… [+926 chars]"
+      }
+    ]
+  }
