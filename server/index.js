@@ -10,7 +10,7 @@ dotenv.config();
 // 2. Configure CORS for security
 const allowedOrigins = [
   'https://catnews-frontend.onrender.com', // Production frontend
-  'http://localhost:5173' // Local development
+  'http://localhost:5173', // Local development
 ];
 
 app.use(cors({
