@@ -17,6 +17,8 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
-    emptyOutDir: true
+    emptyOutDir: true,
+     // Copy static.json to dist
+    assetsInclude: ['static.json'],
   }
 })
